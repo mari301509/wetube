@@ -1,21 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09cc80a0-07c3-4955-91b6-002fe8fe5d92" name="Default Changelist" comment="" />
+    <list default="true" id="09cc80a0-07c3-4955-91b6-002fe8fe5d92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/userContoller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/videoController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routers/userRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routers/videoRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/home.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layouts/main.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/search.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wetube.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wetube.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1e2leqXBFe1ZP2BGL4aEIZHdzgb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.4.0" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="/usr/local/lib/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -23,6 +85,29 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/routers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,10 +121,59 @@
       <updated>1593527666508</updated>
       <workItem from="1593527667793" duration="2819000" />
       <workItem from="1593532323238" duration="3000" />
+      <workItem from="1593532447694" duration="950000" />
+      <workItem from="1593575320248" duration="3135000" />
+      <workItem from="1593615533994" duration="1350000" />
+      <workItem from="1593617163602" duration="1096000" />
+      <workItem from="1593666135445" duration="320000" />
+      <workItem from="1593666743933" duration="2806000" />
+      <workItem from="1593690887632" duration="1170000" />
+      <workItem from="1593759127561" duration="298000" />
+      <workItem from="1593791194674" duration="254000" />
+      <workItem from="1594035667683" duration="1050000" />
+      <workItem from="1594099044429" duration="3173000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="211" key="#Inspections" timestamp="1593691413705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="590" y="211" key="#Inspections/-1792.0.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1593691413705" />
+    <state x="868" y="447" key="#Usage_Scope" timestamp="1593617239117">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="868" y="447" key="#Usage_Scope/-1792.0.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1593617239117" />
+    <state x="420" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593691020794">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="420" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1792.0.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1593691020794" />
+    <state x="644" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594039434235">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="644" y="333" key="#com.intellij.fileTypes.FileTypeChooser/-1792.0.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1594039434235" />
+    <state x="410" y="74" key="SettingsEditor" timestamp="1593690878828">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="410" y="74" key="SettingsEditor/-1792.0.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1593690878828" />
+    <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1594125537592">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup/-1792.0.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1594125537592" />
   </component>
 </project>
